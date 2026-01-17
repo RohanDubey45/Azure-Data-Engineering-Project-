@@ -1,0 +1,12 @@
+{
+	"name": "AdfProjectDataStorage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adfprojectstorage45.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEVEQzRCQjc4LTE4M0ItNEQ2Qy1BMEVDLTkyRkFDMkE1MzM5N19hOTY3MThlMi1kZWE1LTQ0MTktYTY4OS0yOWUyZjdmMWMxZTYiDQp9"
+		}
+	}
+}

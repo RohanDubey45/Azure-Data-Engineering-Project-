@@ -1,0 +1,9 @@
+{
+	"name": "RohanAdfProject45",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bebf5526-d98c-4f11-9558-7e8a4afb3a15",
+		"tenantId": "8b9f4eaf-a4e8-42a6-b847-58903c75b282"
+	}
+}
